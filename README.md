@@ -50,7 +50,7 @@ Built an **end-to-end, cloud-native machine learning pipeline in Snowflake** for
 ## ⚡️ Why Use This Pipeline?
 
 - **Cut manual work**—auto-ingest, analyze, and predict from all customer feedback  
-- **Surface actionable insights instantly**  
+- **See actionable insights instantly**  
 - **Boost revenue** by targeting likely buyers and solving product issues faster  
 - **Modern, scalable, fully cloud-native—**run everything inside Snowflake!
 
