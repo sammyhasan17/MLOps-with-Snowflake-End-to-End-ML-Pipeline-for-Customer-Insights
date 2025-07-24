@@ -61,7 +61,3 @@ Built an **end-to-end, cloud-native machine learning pipeline in Snowflake** for
 > Dive deeper into how Snowflake enables **ML workflows**:  
 > [Snowflake ML](https://www.snowflake.com/en/product/features/end-to-end-ml-workflows/?utm_source=on24&utm_medium=referral&utm_campaign=0n24-webinars-resource-box)
 
----
-
-This Project is leveraging state-of-the-art MLOps and Snowflake’s unified data & AI platform.  
-
