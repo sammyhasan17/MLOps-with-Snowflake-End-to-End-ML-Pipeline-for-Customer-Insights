@@ -9,12 +9,26 @@
 
 Built an **end-to-end, cloud-native machine learning pipeline in Snowflake** for multilingual sentiment analysis and customer purchase prediction, leveraging distributed compute and modern NLP models (Hugging Face BART).
 
-> **Business Impact:**  
-> - Rapidly understand customer sentiment across languages  
-> - Identify product strengths & weaknesses for data-driven improvements  
-> - **Predict which customers are likely to purchase**—enabling targeted marketing  
-> - Automate reporting and insights for **faster, smarter business decisions**  
-> - Directly tie analytics to revenue by boosting sales conversion & customer satisfaction
+
+## Context
+
+- E-commerce furniture retailer with multilingual product reviews (EN/ES/PT/FR).  
+- **Objective:** Transform unstructured customer feedback into actionable insights and predict purchase likelihood to increase sales and reduce churn.  
+- **Requirement:** Keep all data and processing inside Snowflake for governance, security, and scalability.
+
+## Action
+
+- Unified review, clickstream, and transaction data in Snowflake via **Snowpark**.  
+- Applied **multilingual NLP** (Cortex AI + Hugging Face BART) for sentiment and topic detection, distributed with **Ray Data**.  
+- Built **XGBoost** purchase propensity model using sentiment, product attributes, and behavioral signals.  
+- Automated the pipeline with **remote ML jobs** and **DAG scheduling** for daily retraining and scoring.
+
+## Results (Business Impact)
+
+- uplift in marketing conversion by targeting high-propensity customers.  
+- reduction in churn via proactive engagement with at-risk customers.  
+- faster issue resolution for low-sentiment SKUs, improving brand trust.   
+- Scalable to new regions and product lines without additional infrastructure.
 
 ---
 
