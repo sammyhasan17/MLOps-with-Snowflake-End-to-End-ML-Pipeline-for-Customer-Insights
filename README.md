@@ -7,7 +7,7 @@
 
 ## 💡 Project Overview
 
-Built an **end-to-end, cloud-native machine learning pipeline in Snowflake** for multilingual sentiment analysis and customer purchase prediction, leveraging distributed compute and modern NLP models (Hugging Face BART).
+Built an **end-to-end, cloud-native machine learning pipeline in Snowflake** for multilingual sentiment analysis and customer purchase prediction, leveraging distributed compute and modern NLP models (Hugging Face BART)
 
 
 ## Context
