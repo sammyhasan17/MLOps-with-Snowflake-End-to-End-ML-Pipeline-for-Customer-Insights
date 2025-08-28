@@ -1,4 +1,4 @@
-# 🚀 MLOps with Snowflake: End-to-End ML Pipeline for Customer Insights ❄️
+# ❄️ MLOps with Snowflake: End-to-End ML Pipeline for Customer Insights ❄️
 
 **My Original Notebook in Snowflake:**  
 [notebook 1 on Snowflake](https://app.snowflake.com/us-east-1/rlc50566/#/notebooks/HOL_DB.HOL_SCHEMA.%22notebook%201%22)
